@@ -1,0 +1,3 @@
+print ("Hola, mundo)
+
+# el archivo es un .txt, al no ser un .py el programa lo interpreta como un editor de texto
